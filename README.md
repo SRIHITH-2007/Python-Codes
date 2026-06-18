@@ -14,3 +14,13 @@ Set-2
 Set-3
 > Program to find dictionary of student with highest marks
 > Program to find dictionary of students with marks > 80
+
+Date:18-06-2026
+
+Student Mark Analysis
+> Simulate marks of 100 Students in 5 subjects
+  - Math
+  - Physics
+  - Chemistry
+  - English
+  - Computer Science
